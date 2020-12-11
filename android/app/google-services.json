@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34036831560",
+    "firebase_url": "https://farmket-c7b03.firebaseio.com",
+    "project_id": "farmket-c7b03",
+    "storage_bucket": "farmket-c7b03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34036831560:android:d5509bb577b65b387bcf7d",
+        "android_client_info": {
+          "package_name": "com.example.farmket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34036831560-ke6qe7cc26fkmt224hs82rctnbmdabck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmket",
+            "certificate_hash": "924e539cb24f17439106ce52a10313dc6358c540"
+          }
+        },
+        {
+          "client_id": "34036831560-4998u4ftv8mgpr4jma4das2jk92m1p22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuv0ytkTlc_8r7wSkti8zXFVD9-6lvorQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34036831560-4998u4ftv8mgpr4jma4das2jk92m1p22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
